@@ -60,4 +60,4 @@ This Power BI project provides a detailed analysis of the real estate housing ma
 
 -Auction sales show price and growth volatility compared to regular sales.
 ### 6.	Screenshots / Demos
-Example: ![Dashboard Preview](https://github.com/vaishali1808/Data-Analysis-Project/blob/main/Screenshot%202025-07-26%20145330.png)
+Example: ![Dashboard Preview](https://github.com/vaishali1808/Residential-Property-Sales-Dashboard-Region-Type-and-Sales-Trends/blob/main/home.png)
